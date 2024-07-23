@@ -1,14 +1,22 @@
 # evaluation3_caroline_cadieux
 
-This template should help get you started developing with Vue 3 in Vite.
+Resumé
 
-## Recommended IDE Setup
+Concevoir à l’aide de Vue.Js un site web sur le sujet de mon choix. Le site web
+devra permettre de se connecter à l’API en rapport à votre sujet. J'ai choisi Harry Potter.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+technologies
 
-## Customize configuration
+Vue.Js
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Fonctionnalitées
+
+La personne utilisant mon site pourra :
+• Afficher les éléments
+• Voir les détails d’un élément choisi
+• Faire une recherche
+• Avoir une liste de favoris
+
 
 ## Project Setup
 
@@ -27,3 +35,4 @@ npm run dev
 ```sh
 npm run build
 ```
+![harry](https://github.com/user-attachments/assets/c8ab24f9-19d8-4fbe-8703-81d4d0bf6a48)
