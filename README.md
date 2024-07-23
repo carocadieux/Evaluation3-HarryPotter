@@ -35,4 +35,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Visuel interface
+
 ![harry](https://github.com/user-attachments/assets/c8ab24f9-19d8-4fbe-8703-81d4d0bf6a48)
